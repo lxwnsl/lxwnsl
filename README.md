@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hi! I'm lxwnsl. I'm a Software developer 
+⚡Hi! I'm lxwnsl. I'm a developer
 
 
 # 💻 Tech Stack:
